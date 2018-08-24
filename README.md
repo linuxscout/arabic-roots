@@ -32,15 +32,5 @@ All roots: 7504
 A text with one root by line.
 The root is normalized which means all Hamzat are normalize to Hamza on line ء.
 
-## How to update data
 
-* check if the word doesn't exist in the minimal form data file ( classified/stopwords.ods)
-* add affixation information
-* run 
-```
-make
-```
-* catch the output of script in releases folder.
-
-Thanks
  
